@@ -1,2 +1,2 @@
-# ibi5031_pattern_recognition
+# Machine_Learning-1-Classification
 Classification Models - Pattern Recognition
